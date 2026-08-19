@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md.%20Sakib%20Hossen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Competitive%20Programmer%20%7C%20AI%2FML%20Learner&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🏆+Competitive+Programmer;🤖+AI%2FML+Engineer+%7C+Aspiring+Grandmaster;📱+Full+Stack+%26+Mobile+App+Developer;🎓+CST+Student+%40+BPI+Rajshahi;🏅+Shohoj+Coding+Campus+Ambassador)](https://github.com/mdsakib-hossen)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🏆+Competitive+Programmer;🤖+AI%2FML+Engineer+%7C+Aspiring+Grandmaster;�+Software+Developer;🎓+CST+Student+%40+BPI+Rajshahi;🏅+Shohoj+Coding+Campus+Ambassador)](https://github.com/mdsakib-hossen)m
 
 <br/>
 
@@ -23,7 +23,7 @@ class SakibHossen:
         self.location    = "Rajshahi, Bangladesh"
         self.institute   = "Bangladesh Polytechnic Institute, Rajshahi"
         self.department  = "Computer Science & Technology (CST)"
-        self.role        = ["Full Stack Developer", "Competitive Programmer", "AI/ML Learner"]
+        self.role        = ["Software Developer", "Competitive Programmer", "AI/ML Learner"]
         self.ambassador  = "Shohoj Coding Campus Ambassador"
         self.goals       = ["CP Grandmaster", "AI/ML Engineer"]
         self.currently   = "Building Karigori Result & Portfolio"
@@ -85,13 +85,23 @@ me.say_hi()
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 **Database & Cloud**
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=black)
+
+**Concepts**
+
+![OOP](https://img.shields.io/badge/OOP-a78bfa?style=for-the-badge&logo=python&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-0f0c29?style=for-the-badge&logo=leetcode&logoColor=a78bfa)
+![Database Design](https://img.shields.io/badge/Database_Design-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Tools**
 
@@ -215,6 +225,6 @@ me.say_hi()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
-**"Some programmers write code to build things. I write code to solve things — then build them." 🚀**
+**"Coding is not just my skill — it's how I turn ideas into reality, one problem at a time." 🚀**
 
 </div>
