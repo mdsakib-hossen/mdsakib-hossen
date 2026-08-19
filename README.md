@@ -175,6 +175,16 @@ me.say_hi()
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mdsakib-hossen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/mdsakib-hossen)
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -221,7 +231,6 @@ me.say_hi()
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-mdsakibhassan632%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsakibhassan632@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Md.%20Sakib%20Hossen-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17rPGzDWHM/)
 [![GitHub](https://img.shields.io/badge/GitHub-mdsakib--hossen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsakib-hossen)
 
 </div>
