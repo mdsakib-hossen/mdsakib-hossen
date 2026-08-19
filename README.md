@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md.%20Sakib%20Hossen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Competitive%20Programmer%20%7C%20AI%2FML%20Learner&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey+there!+I'm+Md.+Sakib+Hossen+%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Competitive%20Programmer%20%7C%20AI%2FML%20Learner&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🏆+Competitive+Programmer;🤖+AI%2FML+Engineer+%7C+Aspiring+Grandmaster;�+Software+Developer;🎓+CST+Student+%40+BPI+Rajshahi;🏅+Shohoj+Coding+Campus+Ambassador)](https://github.com/mdsakib-hossen)m
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Competitive+Programmer;AI%2FML+Engineer+%7C+Aspiring+Grandmaster;Software+Developer;CST+Student+%40+BPI+Rajshahi;Shohoj+Coding+Campus+Ambassador)](https://github.com/mdsakib-hossen)
 
 <br/>
 
@@ -176,6 +176,12 @@ me.say_hi()
 ---
 
 ## 📊 GitHub Analytics
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mdsakib-dev?theme=dark&font=Fira%20Code&ext=contest&border=0&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&icon_color=a78bfa)](https://leetcode.com/u/mdsakib-dev/)
+
+</div>
 
 <div align="center">
 
