@@ -42,10 +42,10 @@ me.say_hi()
 
 <div align="center">
 
-| 🥈 | 🎓 | 🏅 |
-|:---:|:---:|:---:|
-| **BPI Hobby Fair 2nd Place** | **CST Student @ BPI Rajshahi** | **Shohoj Coding Campus Ambassador** |
-| EduManage — Digital Campus System | Bangladesh Polytechnic Institute | Promoting competitive programming |
+| 🥈 | 🎓 | 🏅 | 🏆 |
+|:---:|:---:|:---:|:---:|
+| **BPI Hobby Fair 2nd Place** | **CST Student @ BPI Rajshahi** | **Shohoj Coding Campus Ambassador** | **Phitron Problem Solvers Club** |
+| EduManage — Digital Campus System | Bangladesh Polytechnic Institute | Promoting competitive programming | XPSC Member — Intensive CP Training |
 
 </div>
 
@@ -215,6 +215,18 @@ me.say_hi()
 
 ---
 
+## 📜 Certifications
+
+<div align="center">
+
+| Certificate | Issuer | Date |
+|-------------|--------|------|
+| 🏅 Certificate of Leadership — Campus Ambassador | Shohoj Coding | August 2026 |
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 ```
@@ -241,6 +253,7 @@ me.say_hi()
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-mdsakibhassan632%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsakibhassan632@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.%20Sakib%20Hossen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdsakib-hossen)
 [![GitHub](https://img.shields.io/badge/GitHub-mdsakib--hossen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsakib-hossen)
 
 </div>
