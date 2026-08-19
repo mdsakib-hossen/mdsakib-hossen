@@ -179,6 +179,7 @@ me.say_hi()
 
 <div align="center">
 
+[![Code::Stats](https://codestats.net/api/users/mdsakibhossen/badges/total_xp_earned.svg?style=for-the-badge)](https://codestats.net/users/mdsakibhossen)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/mdsakib-dev?theme=dark&font=Fira%20Code&ext=contest&border=0&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&icon_color=a78bfa)](https://leetcode.com/u/mdsakib-dev/)
 
 </div>
