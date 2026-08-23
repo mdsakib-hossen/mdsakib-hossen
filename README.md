@@ -8,6 +8,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/mdsakib-hossen?style=for-the-badge&color=a78bfa&labelColor=0f0c29&logo=github)](https://github.com/mdsakib-hossen)
 [![Profile Views](https://komarev.com/ghpvc/?username=mdsakib-hossen&style=for-the-badge&color=a78bfa&labelColor=0f0c29)](https://github.com/mdsakib-hossen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mdsakib--hossen.vercel.app-a78bfa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29)](https://mdsakib-hossen.vercel.app)
 [![Email](https://img.shields.io/badge/Email-mdsakibhassan632%40gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)](mailto:mdsakibhassan632@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://www.linkedin.com/in/mdsakib-hossen)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0f0c29)](https://www.facebook.com/share/17rPGzDWHM/)
@@ -168,10 +169,10 @@ me.say_hi()
 
 ---
 
-### 🌐 Portfolio Website — *(In Development)*
+### 🌐 Portfolio Website — *(Live!)*
 > **Personal portfolio showcasing projects, skills & competitive programming journey**
 
-[![Status](https://img.shields.io/badge/Status-Coming_Soon-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)]()
+[![Live](https://img.shields.io/badge/Live-mdsakib--hossen.vercel.app-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://mdsakib-hossen.vercel.app)
 
 </div>
 
@@ -255,6 +256,7 @@ me.say_hi()
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mdsakib--hossen.vercel.app-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://mdsakib-hossen.vercel.app)
+[![Email](https://img.shields.io/badge/Email-mdsakibhassan632%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsakibhassan632@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.%20Sakib%20Hossen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdsakib-hossen)
 [![GitHub](https://img.shields.io/badge/GitHub-mdsakib--hossen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsakib-hossen)
 [![Facebook](https://img.shields.io/badge/Facebook-Md.%20Sakib%20Hossen-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17rPGzDWHM/)
