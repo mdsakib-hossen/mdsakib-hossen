@@ -65,6 +65,14 @@ me.say_hi()
 [![AtCoder](https://img.shields.io/badge/AtCoder-mdsakibhossen-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/mdsakibhossen)
 [![VJudge](https://img.shields.io/badge/VJudge-mdsakibhossen-0088CC?style=for-the-badge&logo=v&logoColor=white)](https://vjudge.net/user/mdsakibhossen)
 
+<br/>
+
+| Platform | Handle | Rating | Division | Global Rank | Country Rank |
+|:--------:|:------:|:------:|:--------:|:-----------:|:------------:|
+| 🍴 **CodeChef** | [mdsakib_dev](https://www.codechef.com/users/mdsakib_dev) | ⭐⭐ **1424** | Div 3 | 38,883 | 946 |
+| 💙 **Codeforces** | [mdsakibhossen](https://codeforces.com/profile/mdsakibhossen) | — | — | — | — |
+| 🟡 **LeetCode** | [mdsakib-dev](https://leetcode.com/u/mdsakib-dev/) | — | — | — | — |
+
 </div>
 
 ---
