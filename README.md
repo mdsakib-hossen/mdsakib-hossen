@@ -1,27 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MD.+SAKIB+HOSSEN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%C2%B7%20Software%20Developer%20%C2%B7%20AI%2FML%20Learner&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey+there!+I'm+Md.+Sakib+Hossen+%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Competitive%20Programmer%20%7C%20AI%2FML%20Learner&descAlignY=58&descSize=18&descColor=a78bfa" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Competitive+Programmer;AI%2FML+Engineer+%7C+Aspiring+Grandmaster;Software+Developer;CST+Student+%40+BPI+Rajshahi;Shohoj+Coding+Campus+Ambassador)](https://github.com/mdsakib-hossen)
 
 <br/>
 
-**CodeChef ⭐⭐ 1424 &nbsp;·&nbsp; XPSC Member &nbsp;·&nbsp; Shohoj Coding Ambassador**
+[![GitHub followers](https://img.shields.io/github/followers/mdsakib-hossen?style=for-the-badge&color=a78bfa&labelColor=0f0c29&logo=github)](https://github.com/mdsakib-hossen)
+[![Profile Views](https://komarev.com/ghpvc/?username=mdsakib-hossen&style=for-the-badge&color=a78bfa&labelColor=0f0c29)](https://github.com/mdsakib-hossen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mdsakib--hossen.vercel.app-a78bfa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29)](https://mdsakib-hossen.vercel.app)
+[![Email](https://img.shields.io/badge/Email-mdsakibhassan632%40gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)](mailto:mdsakibhassan632@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://www.linkedin.com/in/mdsakib-hossen)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0f0c29)](https://www.facebook.com/share/17rPGzDWHM/)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/▲%20Portfolio-mdsakib--hossen.vercel.app-a78bfa?style=flat-square&logo=vercel&logoColor=white&labelColor=0f0c29)](https://mdsakib-hossen.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/in%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdsakib-hossen)
-[![Facebook](https://img.shields.io/badge/f%20Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/17rPGzDWHM/)
-[![Email](https://img.shields.io/badge/✉%20Email-mdsakibhassan632%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mdsakibhassan632@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=mdsakib-hossen&style=flat-square&color=a78bfa&label=views)](https://github.com/mdsakib-hossen)
-
-<br/>
-
-[![CodeChef](https://img.shields.io/badge/CodeChef%20⭐⭐%201424-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mdsakib_dev)
-[![XPSC](https://img.shields.io/badge/XPSC%20Member-Phitron-a78bfa?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/mdsakib-hossen)
-[![Ambassador](https://img.shields.io/badge/Shohoj%20Coding-Ambassador-f472b6?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/mdsakib-hossen)
-[![Open to](https://img.shields.io/badge/Open%20to-Collaborations-00C851?style=for-the-badge&logo=handshake&logoColor=white)](mailto:mdsakibhassan632@gmail.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-⭐⭐%201424%20Div3-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mdsakib_dev)
+[![XPSC](https://img.shields.io/badge/XPSC-Member-a78bfa?style=for-the-badge&logoColor=white)](https://github.com/mdsakib-hossen)
+[![Ambassador](https://img.shields.io/badge/Shohoj_Coding-Ambassador-f472b6?style=for-the-badge&logoColor=white)](https://github.com/mdsakib-hossen)
 
 </div>
 
